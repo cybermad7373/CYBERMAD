@@ -1,13 +1,12 @@
 # InstaInsane v1.0
-## Author: https://github.com/umeshshinde19
-## IG: instagram.com/cyberspidy19
+## Author: https://github.com/cybermad7373
+## IG: instagram.com/cybermad_ruthra
 ### Don't copy this code without give me the credits, nerd! 
 Instainsane is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
 
 ## Legal disclaimer:
 Usage of InstaInsane for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-![insane](https://user-images.githubusercontent.com/34893261/38772658-97646698-4012-11e8-9b5e-65596e70a5ff.png)
 
 ### Features
 - Multi-thread (100 attempts at once)
@@ -19,7 +18,7 @@ Usage of InstaInsane for attacking targets without prior mutual consent is illeg
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instainsane
+git clone https://github.com/cybermad7373/instainsane
 cd instainsane
 chmod +x instainsane.sh
 sudo ./instainsane.sh
@@ -38,7 +37,3 @@ Script uses an Android ApkSignature to perform authentication in addition using 
 The script uses Instagram-py algorithm (Python), see the project at: https://github.com/antony-jr/instagram-py
 Thanks to: @umeshshinde19 https://github.com/umeshshinde19
 
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/umeshshinde19/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
